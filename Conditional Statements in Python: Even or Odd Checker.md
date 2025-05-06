@@ -21,7 +21,8 @@ else:
 ```
 
 ## Output
-![Uploading Screenshot 2025-05-06 132259.png…]()
+![Screenshot 2025-05-06 132259](https://github.com/user-attachments/assets/db925344-ac5a-417e-9c28-9c54bcd73c5c)
+
 
 ## Result
 Thus the program has been successfully executed.
