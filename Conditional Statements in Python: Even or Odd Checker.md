@@ -21,5 +21,7 @@ else:
 ```
 
 ## Output
+![Uploading Screenshot 2025-05-06 132259.png…]()
 
 ## Result
+Thus the program has been successfully executed.
